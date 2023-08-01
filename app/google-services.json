@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "893894773143",
+    "project_id": "redpanda-2023",
+    "storage_bucket": "redpanda-2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893894773143:android:07bb8c2b2cd25cb5fb1cd2",
+        "android_client_info": {
+          "package_name": "com.example.redpanda2023_kattee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893894773143-ud4cdok6rl1gbc7pep58l38kbmm0c71g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0mlP6knymnKfTq3NdwzRADxCsqBGxUZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893894773143-ud4cdok6rl1gbc7pep58l38kbmm0c71g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
